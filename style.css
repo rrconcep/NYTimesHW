@@ -1,0 +1,110 @@
+.nav-menu{
+    margin-left: -15px;
+    float: left;
+    /* border: 1px solid blue; */
+}
+
+.nav-link{
+    display: inline-block;
+    /* border: 1px solid red; */
+    color: black; 
+    font-weight: 700;
+    font-size: 11px;
+    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+    text-transform: uppercase;  
+}
+
+.nav-menu2{
+    float: right;
+    display: inline-block;
+}
+
+.button {
+    background-color: #6288a5;
+    border-color: #4d7b9f;
+    color: #fff;
+    font-weight: 700;
+    height: 30px;
+    font-size: 11px;
+    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+    border-radius: 3px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.TopNav{
+    height: 50px;
+    /* border: 1px solid green; */
+    padding: 15px;
+}
+
+.language{
+    font-size: 10px;
+    line-height: 10px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+    display: inline-block;
+    margin-left: 9px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.LanguageMenu{
+    /* border: 1px solid red; */
+    text-align: center;
+}
+
+.LogoMenu{
+    font-size: 11px;
+    line-height: 11px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+    height: 10px;
+    padding: 0 10px;
+    border-left: 1px solid #e2e2e2;
+    color: black;
+}
+
+.divider{
+    height: 2px;
+    background-color: black;
+    margin-top: 10px;
+}
+
+.divider2{
+    height: 2px;
+    background-color:#e2e2e2;
+    margin-top: 2px;
+}
+
+
+.MidNav {
+    padding: 10px;
+}
+
+.MainNav{
+    display: inline-block;
+    font-size: 13px;
+    line-height: 10px;
+    font-weight: 400;
+    font-style: normal;
+    font-family: "nyt-franklin",arial,helvetica,sans-serif;
+    display: inline-block;
+    margin: 4px;
+    color: black;
+}
+
+.col-2{
+    border: 1px solid red;
+}
+
+.col-6{
+    border: 1px solid green;
+}
+
+/* .container{ */
+    border: 1px solid purple;
+
+}
